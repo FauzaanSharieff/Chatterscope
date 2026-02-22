@@ -1,0 +1,20 @@
+# Python caches, etc
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# API keys
+.env
+keys/
+*.json
+
+# Program output
+*.wav
+*.mp3
+
+# OS stuff
+.DS_Store
+Thumbs.db
