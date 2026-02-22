@@ -1,0 +1,11 @@
+Chatterscope
+
+Chatterscope is a project that is supposed to:
+- Detect objects using a camera and describe using ChatGPT API
+- Read out the description using Google Text-To-Speech API
+
+Chatterscope is a project intended to teach me how to use software tools like:
+- Git / Github
+- API Handling
+- Pipeline creation
+
